@@ -1,0 +1,19 @@
+<center><h1>Write an application to your principle for sick leave</h2></center>
+
+
+<p>To</p>
+<p>The principal</p>
+<p>Rizwan Bhatti</p>
+<p>Bahadurabad</p>
+<p>Date:9<sup>th</sup>January 2025</p>
+<p>Subject:Application from sick leave.</p>
+<p>Respected sir,</p>
+<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Respectfully, I am here to inform you that, I am suffering from fever last might</p>
+<p>The doctor had advised me to take 4 days' rest.</p>
+<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbspI therefore request you to grand me 4 days leave from<b> 09/01/2025 to 12/01/2025</p></b>
+<p>Thanking you!</p>
+<p>your obediently</p>
+<p>XYZ</p>
+<p>Roll no.277698</p>
+<p>Class 7<sup>th</sup></p>
+<p>Section 'A'
